@@ -1,5 +1,13 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Instagram-61DAFB?style=flat-square&logo=Instagram&logoColor=blueviolet"/>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Instagram-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/inshajh/)](https://www.instagram.com/inshajh/)
+
+
+
+
+
+
+
 <!--
 **smilebank7/smilebank7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
