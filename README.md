@@ -1,5 +1,6 @@
 ### Hi there 👋
-https://img.shields.io/twitter/url?color=yellow&label=instagram&logo=instagram&logoColor=blueviolet&url=https%3A%2F%2Fwww.instagram.com%2Finshajh%2F
+
+
 <!--
 **smilebank7/smilebank7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
