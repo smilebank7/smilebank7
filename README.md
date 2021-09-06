@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi Hola 👋👋
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmilebank7%2Fsmilebank7%2F&count_bg=%238A2BE2&title_bg=%23555555&icon=&icon_color=%238A2BE2&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Instagram-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/inshajh/)](https://www.instagram.com/inshajh/)
 
