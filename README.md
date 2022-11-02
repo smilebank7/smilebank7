@@ -4,10 +4,10 @@
 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmilebank7%2Fsmilebank7%2F&count_bg=%238A2BE2&title_bg=%23808080&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) [![instagram Badge](https://img.shields.io/badge/-Instagram-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/inshajh/)](https://www.instagram.com/inshajh/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmilebank7%2Fsmilebank7%2F&count_bg=%238A2BE2&title_bg=%23808080&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) [![instagram Badge](https://img.shields.io/badge/-Instagram-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/inshjh/)](https://www.instagram.com/inshjh/)
 
 # 💡 About Me
-🎓 **Learning in CAU**
+🎓 **Learning in CAU CSE**
 </br>🏠 **Live in Suwon, Gyeonggi**
 </br>
 # 💻 've used at least once
