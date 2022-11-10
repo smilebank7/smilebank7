@@ -9,6 +9,8 @@
 # 💡 About Me
 🎓 **Learning in CAU CSE**
 </br>🏠 **Live in Suwon, Gyeonggi**
+</br> **Vice Leader in CAU CECOM(2022.02~)**
+</br/ **Learning in GDSC CAU**
 </br>
 # 💻 've used at least once
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
