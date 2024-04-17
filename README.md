@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=300&section=header&text=JuhyeongLee&fontSize=90](https://sans-banner.vercel.app))
+![header]((https://sans-banner.vercel.app))
 
 # **Hi Hola** 👋👋
 
