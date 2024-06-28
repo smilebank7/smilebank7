@@ -15,7 +15,7 @@
 </br>
 # SKILL
 
-<img src="https://img.shields.io/badge/React-000000?logo=React"><img src="https://img.shields.io/badge/Next-000000?logo=Next.js"><img src="https://img.shields.io/badge/NestJS-000000?logo=NestJS"><img src="https://img.shields.io/badge/Spring-000000?logo=Spring"><img src="https://img.shields.io/badge/Kubernetes-000000?logo=Kubernetes"><img src="https://img.shields.io/badge/Rust-000000?logo=Rust"><img src="https://img.shields.io/badge/TypeScript-000000?logo=TypeScript"><img src="https://img.shields.io/badge/Rust-000000?logo=Rust"><img src="https://img.shields.io/badge/Java-000000?logo=Java">
+<img src="https://img.shields.io/badge/React-000000?logo=React"><img src="https://img.shields.io/badge/Next-000000?logo=Next.js"><img src="https://img.shields.io/badge/NestJS-000000?logo=NestJS"><img src="https://img.shields.io/badge/Spring-000000?logo=Spring"><img src="https://img.shields.io/badge/Kubernetes-000000?logo=Kubernetes"><img src="https://img.shields.io/badge/Rust-000000?logo=Rust"><img src="https://img.shields.io/badge/TypeScript-000000?logo=TypeScript"><img src="https://img.shields.io/badge/Java-000000?logo=Java">
 
 
 
