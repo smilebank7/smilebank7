@@ -19,7 +19,9 @@
 
 <img src="https://img.shields.io/badge/NestJS-000000?logo=NestJS"><img src="https://img.shields.io/badge/Spring-000000?logo=Spring">
 <img src="https://img.shields.io/badge/Kubernetes-000000?logo=Kubernetes">
-<img src="https://img.shields.io/badge/Rust-000000?logo=Rust"><img src="https://img.shields.io/badge/TypeScript-000000?logo=TypeScript"><img src="https://img.shields.io/badge/Java-000000?logo=buymeacoffee">
+
+<img src="https://img.shields.io/badge/Rust-000000?logo=Rust"><img src="https://img.shields.io/badge/TypeScript-000000?logo=TypeScript"><img src="https://img.shields.io/badge/Java-000000?logo=buymeacoffee"><img src="https://img.shields.io/badge/Python-000000?logo=Python">
+
 
 
 
