@@ -14,11 +14,7 @@
 </br> **GDSC CAU ALUMNI(2022.08~2023.07)**
 </br>
 # SKILL
-<img src="https://img.shields.io/badge/React-61DAFB?logo=React">
-<img src="https://img.shields.io/badge/Next-000000?logo=Next.js">
-<img src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJS">
-<img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes">
+<img src="https://img.shields.io/badge/React-61DAFB?logo=React"><img src="https://img.shields.io/badge/Next-000000?logo=Next.js"><img src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJS"><img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring"><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes">
 
 
 
