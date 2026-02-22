@@ -8,4 +8,5 @@ Obsessed with developer experience and infrastructure that scales.
 ### Careers
 
 **InfoGrab** · Software Engineer (2025.04 - Present)
+
 **Waldlust** · Software Engineer (2024.02 - 2025.03)
