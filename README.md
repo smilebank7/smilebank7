@@ -7,6 +7,12 @@ Obsessed with developer experience and infrastructure that scales.
 
 ### Careers
 
-**InfoGrab** · Software Engineer (2025.04 - Present)
+🏫 **InfoGrab** · Software Engineer Intern (2026.09 - 2026.12)
 
-**Waldlust** · Software Engineer (2024.02 - 2025.03)
+🪖 **InfoGrab** · Software Engineer (2025.04 - 2026.08)
+
+🪖 **Waldlust** · Software Engineer (2024.02 - 2025.03)
+
+### Awards
+
+**SCPC 2026** · 2nd Place
