@@ -15,4 +15,4 @@ Obsessed with developer experience and infrastructure that scales.
 
 ### Awards
 
-**SCPC 2026** · 2nd Place
+**Samsung Collegiate Programming Challenge (SCPC) 2026** · 2nd Place
