@@ -2,8 +2,11 @@
 
 Software Engineering · AI Transformation
 
-Shipping code that matters. Breaking things, then fixing them better.
-Obsessed with developer experience and infrastructure that scales.
+No silver bullet.
+
+### Awards
+
+**Samsung Collegiate Programming Challenge (SCPC) 2026** · 2nd Place
 
 ### Careers
 
@@ -13,6 +16,3 @@ Obsessed with developer experience and infrastructure that scales.
 
 🪖 **Waldlust** · Software Engineer (2024.02 - 2025.03)
 
-### Awards
-
-**Samsung Collegiate Programming Challenge (SCPC) 2026** · 2nd Place
